@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a5b79697-a2ab-4e6b-a3f9-9bc261155cb9" name="Changes" comment="Lab practicals">
+      <change afterPath="$PROJECT_DIR$/../../Lab1/Car/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lab1/Car/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lab1/Car/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lab1/Car/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lab1/Car/Car.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lab1/Car/src/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lab1/Car/src/PersonAddressDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lab1/Car/src/RectangleDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lab3/Student/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lab3/Student/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lab3/Student/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lab3/Student/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lab3/Student/Student.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lab3/Student/src/BankAccountWithHistory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lab3/Student/src/ImmutablePerson.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lab3/Student/src/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lab3/Student/src/Temperature.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lab5/OverloadDemo/OverloadDemo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lab5/OverloadDemo/src/AnimalPolymorphism.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lab5/OverloadDemo/src/OverloadDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lab5/OverloadDemo/src/PaymentProcessorDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lab5/OverloadDemo/src/PayrollSystem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lab5/OverloadDemo/src/PolymorphicvsNonPolymorphic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lab7/DivisionHandler.java/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lab7/DivisionHandler.java/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lab7/DivisionHandler.java/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lab7/DivisionHandler.java/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lab7/DivisionHandler.java/DivisionHandler.java.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lab7/DivisionHandler.java/src/ArrayAccess.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lab7/DivisionHandler.java/src/BankAccountWithExceptions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lab7/DivisionHandler.java/src/DivisionHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lab7/DivisionHandler.java/src/FinallyReturnDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Lab7/DivisionHandler.java/src/InvalidAgeExceptionDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lab 6/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lab 6/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lab 6/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lab 6/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lab 6/lab 6.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lab 6/src/AccountDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lab 6/src/FlyableDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lab 6/src/HelloConflictDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lab 6/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lab 6/src/ShapeDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lab 6/src/StudentSortDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lab 8/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lab 8/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lab 8/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lab 8/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lab 8/lab 8.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lab 8/src/BubbleSortDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lab 8/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lab 8/src/NumberList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lab 8/src/StackDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lab 8/src/UniqueNames.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lab 8/src/WordFrequency.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lab10/AboveAverage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lab10/LearnerReports.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lab10/NotesFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lab10/RemoveEvens.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lab10/TextStats.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lab10/learners.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../lab10/sample.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BookNoHash.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BookSetDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Coin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Level.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LevelDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RecordDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../library-project/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../library-project/Borrowable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../library-project/Dvd.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../library-project/ItemNotAvailableException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../library-project/Library.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../library-project/LibraryFileStore.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../library-project/LibraryItem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../library-project/Loan.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../library-project/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../library-project/Member.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../library-project/MemberLimitExceededException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../library-project/Validation.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.0000331772387245" />
+      <entry key="MS500" value="1.1651591911267873" />
+      <entry key="S2" value="2.5518707640221785" />
+      <entry key="S5" value="3.70349217261914" />
+      <entry key="S10" value="4.281498252884857" />
+      <entry key="S30" value="4.7428227082029135" />
+      <entry key="S60" value="4.874538220430968" />
+      <entry key="M2" value="5.008088461338856" />
+      <entry key="M5" value="5.3266811951032915" />
+      <entry key="M10" value="5.581043043493386" />
+      <entry key="M15" value="5.698029886118495" />
+      <entry key="M30" value="5.836336744485593" />
+      <entry key="H1" value="5.914718264301592" />
+      <entry key="H2" value="5.956458817272532" />
+      <entry key="H4" value="5.977999425301629" />
+      <entry key="D1" value="5.9963008704259835" />
+      <entry key="W1" value="5.999470754652241" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="0.0" />
+      <entry key="S2" value="0.0" />
+      <entry key="S5" value="0.0" />
+      <entry key="S10" value="0.0" />
+      <entry key="S30" value="0.0" />
+      <entry key="S60" value="0.0" />
+      <entry key="M2" value="0.0" />
+      <entry key="M5" value="0.0" />
+      <entry key="M10" value="0.0" />
+      <entry key="M15" value="0.0" />
+      <entry key="M30" value="0.0" />
+      <entry key="H1" value="0.0" />
+      <entry key="H2" value="0.0" />
+      <entry key="H4" value="0.0" />
+      <entry key="D1" value="0.0" />
+      <entry key="W1" value="0.0" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="0.8950551798971953" />
+      <entry key="MS500" value="1.1382546326572391" />
+      <entry key="S2" value="2.5173015911579344" />
+      <entry key="S5" value="3.6773461301183383" />
+      <entry key="S10" value="4.265108388319798" />
+      <entry key="S30" value="4.736451530743707" />
+      <entry key="S60" value="4.871204801192305" />
+      <entry key="M2" value="5.006251367671928" />
+      <entry key="M5" value="5.325714083989342" />
+      <entry key="M10" value="5.58046121965583" />
+      <entry key="M15" value="5.697611533598191" />
+      <entry key="M30" value="5.836109474872343" />
+      <entry key="H1" value="5.914599487503149" />
+      <entry key="H2" value="5.9563980579014215" />
+      <entry key="H4" value="5.9779686916374075" />
+      <entry key="D1" value="5.996295698004527" />
+      <entry key="W1" value="5.999470014493903" />
+    </decayedShown>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4,
+  &quot;fromUser&quot;: false
+}</component>
+  <component name="ProjectId" id="3KgkSpnSFMylT9ix94HDW1Ninpj" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.SortingContext.executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
+    &quot;com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/User/Desktop/LabPracticals/Lab9/Logger/src/Main.java&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
+    &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="Logger" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="Logger" />
+      <option name="filePath" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-37e91769500f-intellij.indexing.shared.core-IU-261.25134.95" />
+        <option value="bundled-js-predefined-d6986cc7102b-31caf2ab9e3c-JavaScript-IU-261.25134.95" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a5b79697-a2ab-4e6b-a3f9-9bc261155cb9" name="Changes" comment="" />
+      <created>1791986607803</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1791986607803</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Lab practicals" />
+    <option name="LAST_COMMIT_MESSAGE" value="Lab practicals" />
+  </component>
+</project>

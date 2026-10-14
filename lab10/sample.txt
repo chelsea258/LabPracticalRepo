@@ -1,0 +1,4 @@
+Object oriented programming is fun.
+Java has classes and objects.
+
+Streams make collections easy to process.
